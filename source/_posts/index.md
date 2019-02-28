@@ -1,7 +1,7 @@
 ---
 title: Welcome Zthxxx's Wiki Site
 date: 2017-01-22 01:55:57
-banner:
+banner:123
 tags:
 categories:
 ---
